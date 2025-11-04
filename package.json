@@ -1,0 +1,11 @@
+{
+  "name": "Pong",
+  "uuid": "fedc581e-4989-41f6-8c61-a997b3d53c6c",
+  "creator": {
+    "version": "3.8.7",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {}
+  }
+}
